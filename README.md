@@ -5,7 +5,7 @@ A feature-rich, visually stunning **Tic Tac Toe** web application built with **R
 ![Tic Tac Toe Preview](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8-purple?logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+LINK:https://nikhilcharugundla21.github.io/tic-tac-toe/
 ---
 
 ## ✨ Features
